@@ -9,11 +9,9 @@ Developed using Brackeys "How to make a Video Game in Unity" video as inspiratio
 
 # How to Run
 
-Make sure to have GitHub Desktop and Unity installed.
+Make sure to have Unity installed.
 
-- Copy the repository URL from the dropdown under "<> Code"
-- Open GitHub Desktop and clone a repository.
-- Go to the URL tab, paste the repository URL, and hit "clone".
+- Clone the repository.
 - Go to Unity Hub, click the dropdown for "Open", and press "Add project from disk."
 - Select the folder labeled "multi-level-slider-game".
 - After it has finished importing, open the game by clicking on the project labeled the same as the repository name.
